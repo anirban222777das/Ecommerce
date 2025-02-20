@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "113155505744",
+    "project_id": "blindai-75c2e",
+    "storage_bucket": "blindai-75c2e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113155505744:android:b5e56ec715a98d8ed15b55",
+        "android_client_info": {
+          "package_name": "com.example.blinders"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEwXRNwXRA5a576sQvixbZ_ZPngLX-fBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
